@@ -2189,7 +2189,10 @@ castReelBtn.click();
 どうしても残りの一匹が釣れなくて、
 <!-- <a href='fishdensityref.html'>[DEV ONLY] Fish Density Reference</a> -->
 htmlのコメントアウトにあったファイルにアクセスします。https://2023.holidayhackchallenge.com/sea/fishdensityref.html
-ただ、よく理解できていなかったので最初は無視してたのですが、よくみると、明らかに「Piscis Cyberneticus Skodo」の画像だけ違っていて、minimap.pngにこれをマッピングしてみると、一つの場所が浮き上がってきます。そこで釣り上げること20分ぐらいで気付いたら釣れていましたw
+ただ、よく理解できていなかったので最初は無視してたのですが、よくみると、明らかに「Piscis Cyberneticus Skodo」の画像だけ違っていて、minimap.pngにこれをマッピングしてみると、一つの場所が浮き上がってきます。
+<img src="images/combined_transparent_image.png" width="300">
+
+そこで釣り上げること20分ぐらいで気付いたら釣れていましたw
 
 
 # Thanks
