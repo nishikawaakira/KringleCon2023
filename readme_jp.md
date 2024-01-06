@@ -540,7 +540,7 @@ Merry Christmas to all, and to all, a root feat!
 * Find a method to escalate privileges inside this terminal and then run the binary in /root *
 ```
 
-![Screenshot 2024-01-02 at 9.40.15.png](images/Screenshot_2024-01-02_at_9.40.15.png)
+<img src="images/Screenshot_2024-01-02_at_9.40.15.png" width="500">
 
 ということなので、まずは特権を持っている実行ファイルを探します
 
@@ -730,7 +730,8 @@ root@8ada98c1c9dc:~#
 
 ![Screenshot 2023-12-31 at 12.33.24.png](images/Screenshot_2023-12-31_at_12.33.24.png)
 
-![Screenshot 2023-12-31 at 12.34.58.png](images/Screenshot_2023-12-31_at_12.34.58.png)
+<img src="images/Screenshot_2023-12-31_at_12.34.58.png" width="300">
+
 
 こちらも動画 ([https:/www.youtube.com/watch?v=27rE5ZvWLU0](https:/www.youtube.com/watch?v=27rE5ZvWLU0)) を見ながらやっていくだけでした。
 
@@ -744,15 +745,16 @@ root@8ada98c1c9dc:~#
 
 ![Screenshot 2023-12-31 at 12.10.58.png](images/Screenshot_2023-12-31_at_12.10.58.png)
 
+
 この帽子に近づくと、Game Boy Cartridge Detector が強く反応します
 
-![Screenshot 2023-12-31 at 12.13.45.png](images/Screenshot_2023-12-31_at_12.13.45.png)
+<img src="images/Screenshot_2023-12-31_at_12.13.45.png" width="300">
 
 帽子に触れると、「Elf the Dwarf’s, Gloriously, Unfinished, Adventure! - Vol1」Getすることができました。
 
 これは素直に遊んでQRコードを読めばFlagがGetできます。
 
-![スクリーンショット 2023-12-09 13.06.38.png](images/%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588_2023-12-09_13.06.38.png)
+![スクリーンショット 2023-12-09 13.06.38.png](images/qrcode.png)
 
 [https:/8bitelf.com/](https:/8bitelf.com/) にアクセスすると　"flag:sanctionfusedgivingplanetsqrcode"　が表示されるので、 "sanctionfusedgivingplanetsqrcode" を入力すればクリアです。
 
@@ -762,7 +764,7 @@ root@8ada98c1c9dc:~#
 
 ![Screenshot 2023-12-31 at 12.11.03.png](images/Screenshot_2023-12-31_at_12.11.03.png)
 
-![Screenshot_2023-12-31_at_13_05_43.png](images/Screenshot_2023-12-31_at_13_05_43.png)
+<img src="images/Screenshot_2023-12-31_at_13_05_43.png" width="300">
 
 矢印の場所で発見しました。
 
@@ -776,7 +778,7 @@ root@8ada98c1c9dc:~#
 
 普通に遊んでいてもおじいさん(T-wiz)に邪魔をされて進めないのでgame0とgame1の差分を調べる。差分を一つずつ書き換えて動作を確認していきます。
 
-![スクリーンショット 2023-12-29 9.16.55.png](images/%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588_2023-12-29_9.16.55.png)
+![スクリーンショット 2023-12-29 9.16.55.png](images/gameboy.png)
 
 最終的にここを0Bに変えるとワープが出てきて、機械に話しかけると「ChatNPT： I love old-timey radio!」とモールス信号が流れるのでそれを録音して、 [https:/morsecode.world/international/](https:/morsecode.world/international/)　でデコードすると下記が出てくるのでそれを解答すると正解でした。
 
@@ -792,7 +794,7 @@ GL0RY
 
 ![Screenshot 2023-12-31 at 12.11.08.png](images/Screenshot_2023-12-31_at_12.11.08.png)
 
-![Screenshot 2023-12-31 at 12.50.52.png](images/Screenshot_2023-12-31_at_12.50.52.png)
+<img src="images/Screenshot_2023-12-31_at_12.50.52.png" width="300">
 
 ゲームデータを下記URLから取得します
 [https:/gamegosling.com/vol3-7bNwQKGBFNGQT1/rom/game.gb](https:/gamegosling.com/vol3-7bNwQKGBFNGQT1/rom/game.gb)
@@ -823,17 +825,15 @@ CBA2: xx9
 
 ![Screenshot 2023-12-31 at 16.13.10.png](images/Screenshot_2023-12-31_at_16.13.10.png)
 
-![Screenshot 2023-12-31 at 16.16.16.png](images/Screenshot_2023-12-31_at_16.16.16.png)
+<img src="images/Screenshot_2023-12-31_at_16.16.16.png" width="300">
 
 ![Screenshot 2023-12-31 at 16.55.15.png](images/Screenshot_2023-12-31_at_16.55.15.png)
 
-![Screenshot 2023-12-31 at 16.52.59.png](images/Screenshot_2023-12-31_at_16.52.59.png)
-
 普通にやっても勝てなさそうなのでヒントを見てみます。
 
-![Screenshot 2024-01-02 at 10.03.57.png](images/Screenshot_2024-01-02_at_10.03.57.png)
+<img src="images/Screenshot_2024-01-02_at_10.03.57.png" width="500">
 
-![Screenshot 2024-01-02 at 10.04.02.png](images/Screenshot_2024-01-02_at_10.04.02.png)
+<img src="images/Screenshot_2024-01-02_at_10.04.02.png" width="500">
 
 ([https:/www.tenable.com/blog/python-nan-injection](https:/www.tenable.com/blog/python-nan-injection)) ヒントのリンク先にはNaNインジェクションの話があるのでそれを使うだけでよさそうです。
 
@@ -1047,7 +1047,7 @@ A. --wipeall
 
 ![Screenshot 2023-12-31 at 20.59.43.png](images/Screenshot_2023-12-31_at_20.59.43.png)
 
-![Screenshot 2023-12-31 at 21.00.55.png](images/Screenshot_2023-12-31_at_21.00.55.png)
+<img src="images/Screenshot_2023-12-31_at_21.00.55.png" width="300">
 
 ![Screenshot 2023-12-31 at 21.01.40.png](images/Screenshot_2023-12-31_at_21.01.40.png)
 
@@ -1061,15 +1061,15 @@ SPF, DKIM, DMARCの設定を元にフィッシングかどうかを判断する�
 
 この情報を元にレコードの判定がpassしているかどうかを見ていく。該当ドメイン以外でpassしているものはフィッシングかどうか別途判断し、最終的には下記のとおりでクリア
 
-![スクリーンショット 2023-12-08 14.19.26.png](images/%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588_2023-12-08_14.19.26.png)
+![スクリーンショット 2023-12-08 14.19.26.png](images/fish1.png)
 
-![スクリーンショット 2023-12-08 14.19.33.png](images/%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588_2023-12-08_14.19.33.png)
+![スクリーンショット 2023-12-08 14.19.33.png](images/fish2.png)
 
-![スクリーンショット 2023-12-08 14.19.41.png](images/%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588_2023-12-08_14.19.41.png)
+![スクリーンショット 2023-12-08 14.19.41.png](images/fish3.png)
 
-![スクリーンショット 2023-12-08 14.19.46.png](images/%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588_2023-12-08_14.19.46.png)
+![スクリーンショット 2023-12-08 14.19.46.png](images/fish4.png)
 
-![スクリーンショット 2023-12-08 14.19.15.png](images/%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588_2023-12-08_14.19.15.png)
+![スクリーンショット 2023-12-08 14.19.15.png](images/fish_success.png)
 
 ---
 
@@ -1077,13 +1077,13 @@ SPF, DKIM, DMARCの設定を元にフィッシングかどうかを判断する�
 
 ![Screenshot 2023-12-31 at 13.10.14.png](images/Screenshot_2023-12-31_at_13.10.14.png)
 
-![Screenshot 2023-12-31 at 13.11.25.png](images/Screenshot_2023-12-31_at_13.11.25.png)
+<img src="images/Screenshot_2023-12-31_at_13.11.25.png" width="300">
 
 ![Screenshot 2023-12-31 at 13.12.22.png](images/Screenshot_2023-12-31_at_13.12.22.png)
 
 elfを打たないといけないけど動きが速いので、遅くする方法がないかを検討します。
 
-リクエストパラメーターに怪しいところはないが、JWT Tokenを使っていることに気がついたので、これをデコードしてみます。
+リクエストパラメーターに怪しいところはないですが、JWT Tokenを使っていることに気がついたのでこれをデコードしてみます。
 
 ![Screenshot 2023-12-31 at 13.27.55.png](images/Screenshot_2023-12-31_at_13.27.55.png)
 
@@ -1105,13 +1105,13 @@ eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJzcGVlZCI6LTUwfQ==.
 
 ![Screenshot 2023-12-31 at 20.38.27.png](images/Screenshot_2023-12-31_at_20.38.27.png)
 
-![Screenshot 2023-12-31 at 13.46.54.png](images/Screenshot_2023-12-31_at_13.46.54.png)
+<img src="images/Screenshot_2023-12-31_at_13.46.54.png" width="300">
 
 ```prolog
 Generate yourself a certificate and use the monitor account to access the host. See if you can grab my TODO list.
 ```
 
-とのことなので、alabaster のTODO listを探していきます。
+とのことなので、monitorアカウントでログインしてalabaster のTODO listを探していきます。
 
 ![Screenshot 2023-12-31 at 15.52.04.png](images/Screenshot_2023-12-31_at_15.52.04.png)
 
@@ -1182,7 +1182,7 @@ monitor@ssh-server-vm:~$
 
 これでアクセストークンが取れたのでヒントを見ます。
 
-![Screenshot 2023-12-31 at 17.17.17.png](images/Screenshot_2023-12-31_at_17.17.17.png)
+<img src="images/Screenshot_2023-12-31_at_17.17.17.png" width="500">
 
 ソースコードの情報を取ってくる方法を調べます。
 
@@ -1231,14 +1231,14 @@ CA_KEY_SECRET_NAME = os.environ['CA_KEY_SECRET_NAME']
 ```python
 principal = data.get("principal", DEFAULT_PRINCIPAL)
 
-    if not isinstance(principal, str):
-        raise ValidationError("principal is not a string.")
+if not isinstance(principal, str):
+    raise ValidationError("principal is not a string.")
 
-    principal = principal.strip()
-    logging.info("Principal: %s", principal)
+principal = principal.strip()
+logging.info("Principal: %s", principal)
 
-    if not principal.isalpha():
-        raise ValidationError("principal contains invalid characters.")
+if not principal.isalpha():
+    raise ValidationError("principal contains invalid characters.")
 ```
 
 こ、これは・・・。
@@ -1306,7 +1306,7 @@ monitor@ssh-server-vm:~$ curl 'https:/northpole-it-kv.vault.azure.net/secrets/tm
 
 最終的に「GeeseIslandsSuperChiefCommunicationOfficer」の権限になればよさそうです。
 
-![Screenshot 2024-01-01 at 13.37.21.png](images/Screenshot_2024-01-01_at_13.37.21.png)
+<img src="images/Screenshot_2024-01-01_at_13.37.21.png" width="500">
 
 このヒントが非常に重要でした。
 
@@ -1404,11 +1404,12 @@ uQIDAQAB
 -----END PUBLIC KEY-----
 ```
 
-一旦アクセスしてみるが、デコードができないことがわかります。
+一旦アクセスしてみますがデコードできないことがわかります。
 
 ![Screenshot 2023-12-28 at 11.57.15.png](images/Screenshot_2023-12-28_at_11.57.15.png)
 
-なので、デコーダーのトークンも探しにいくが、同じルールである可能性があると想像し、下記にアクセスしてみます。
+なので、デコーダーのトークンも探しにいくことにします。
+デコーダーのトークンも同じルールで保存さている可能性があると想像し、下記にアクセスしてみます。
 
 ```jsx
 curl 'https:/captainscomms.com/jwtDefault/rDecoder.tok' \
@@ -1435,11 +1436,11 @@ eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJISEMgMjAyMyBDYXB0YWluJ3MgQ29tbXM
 }
 ```
 
-ビンゴ!取得できました。同様にマウスオーバーすると黄色になるところの波をクリックして情報を見ていきます。
+ビンゴ！取得できました。同様にマウスオーバーすると黄色になるところの波をクリックして情報を見ていきます。
 
 ![Screenshot 2023-12-28 at 14.43.11.png](images/Screenshot_2023-12-28_at_14.43.11.png)
 
-この秘密鍵のディレクトリとファイル名の推測にかなりの時間を要しました。素直にディレクトリ名を使わず、いままでのフォルダ名ではjwtDefaultのようにキャメルケースを想定してしまったからです。
+この秘密鍵のディレクトリとファイル名の推測にかなりの時間を要しました。素直にディレクトリ名を使わず、いままでのフォルダ名ではjwtDefaultのようなキャメルケースを想定してしまったからです。
 
 ```jsx
 curl 'https:/captainscomms.com/jwtDefault/keys/TH3CAPSPR1V4T3F0LD3R/capsPrivKey.key' \
@@ -1501,13 +1502,13 @@ eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJISEMgMjAyMyBDYXB0YWluJ3MgQ29tbXM
 
 > More information about the 'Lincolnshire Poacher' can be found at https:/www.numbers-stations.com/english/e03-the-lincolnshire-poacher/.
 
-に従ってリンク先を見にいく。するとフォーマットが下記であることがわかるので、Message部分に注目します。
+に従ってリンク先を見にいきます。するとフォーマットが下記であることがわかるので、Message部分に注目します。
 
 ![Screenshot 2023-12-31 at 6.03.49.png](images/Screenshot_2023-12-31_at_6.03.49.png)
 
 ここからは推測でしかありませんでしたが、日付と時間というところから、12249は12/24を表し、16009は16時を表しているのではないかと考えました。あとは、その4時間前の12時とすることにより解決できると考えました。
 
-![スクリーンショット 2023-12-28 15.58.13.png](images/%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588_2023-12-28_15.58.13.png)
+![スクリーンショット 2023-12-28 15.58.13.png](images/freq.png)
 
 待ってたら上記画像が印刷されるので、Frequencyがわかります。
 
@@ -1523,21 +1524,21 @@ eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJISEMgMjAyMyBDYXB0YWluJ3MgQ29tbXM
 
 ![Screenshot 2024-01-01 at 6.12.53.png](images/Screenshot_2024-01-01_at_6.12.53.png)
 
-![Screenshot 2024-01-01 at 6.11.05.png](images/Screenshot_2024-01-01_at_6.11.05.png)
+<img src="images/Screenshot_2024-01-01_at_6.11.05.png" width="500">
 
-![Screenshot 2024-01-01 at 6.28.18.png](images/Screenshot_2024-01-01_at_6.28.18.png)
+<img src="images/Screenshot_2024-01-01_at_6.28.18.png" width="500">
 
-![Screenshot 2024-01-01 at 6.28.39.png](images/Screenshot_2024-01-01_at_6.28.39.png)
+<img src="images/Screenshot_2024-01-01_at_6.28.39.png" width="500">
 
-![Screenshot 2024-01-01 at 6.29.10.png](images/Screenshot_2024-01-01_at_6.29.10.png)
+<img src="images/Screenshot_2024-01-01_at_6.29.10.png" width="500">
 
-![Screenshot 2024-01-01 at 6.29.41.png](images/Screenshot_2024-01-01_at_6.29.41.png)
+<img src="images/Screenshot_2024-01-01_at_6.29.41.png" width="500">
 
-![Screenshot 2024-01-01 at 6.29.59.png](images/Screenshot_2024-01-01_at_6.29.59.png)
+<img src="images/Screenshot_2024-01-01_at_6.29.59.png" width="500">
 
-![Screenshot 2024-01-01 at 6.33.25.png](images/Screenshot_2024-01-01_at_6.33.25.png)
+<img src="images/Screenshot_2024-01-01_at_6.33.25.png" width="500">
 
-![Screenshot 2024-01-01 at 6.33.34.png](images/Screenshot_2024-01-01_at_6.33.34.png)
+<img src="images/Screenshot_2024-01-01_at_6.33.34.png" width="500">
 
 ```python
 $ ssh -i admin.cert -i id_rsa alabaster@ssh-server-vm.santaworkshopgeeseislands.org
@@ -1643,6 +1644,7 @@ elfy                     2023-12-18 01:12:45.720365  2023-12-18 19:45:12.946245
 wombleycube              2023-12-18 01:12:45.829740  2023-12-18 20:08:33.619738
 ```
 
+alabasterとwoomblycubeが怪しそうです。
 ひとまずelfyで共有フォルダにアクセスしてみます。
 
 ```jsx
@@ -1790,7 +1792,7 @@ Certificate Templates
       ESC1                              : **'NORTHPOLE.LOCAL\\Domain Users' can enroll, enrollee supplies subject and template allows client authentication**
 ```
 
-この脆弱性を悪用することができそうです。
+この脆弱性を悪用できそうです。
 
 ```python
 alabaster@ssh-server-vm:~$ certipy req -u elfy@northpole.local -ca northpole-npdc01-CA -template NorthPoleUsers -upn wombleycube@northpole.local -dc-ip 10.0.0.53
@@ -1848,7 +1850,7 @@ So through the valley and over the height.'
 And he'll silently take his way.
 ```
 
-なおFileShareに置かれていたファイルはmgetで取得し、base64エンコードして元のファイルに復元したが詳細な手順は省略します。気が向いたら公開します。
+なおFileShareに置かれていたファイルはmgetで取得し、base64エンコードして元のファイルに復元しましたがマジもんのクッキーのレシピでしたw
 
 ---
 
@@ -1856,17 +1858,17 @@ And he'll silently take his way.
 
 ![Screenshot 2023-12-31 at 13.00.30.png](images/Screenshot_2023-12-31_at_13.00.30.png)
 
-![Screenshot 2023-12-31 at 13.01.34.png](images/Screenshot_2023-12-31_at_13.01.34.png)
+<img src="images/Screenshot_2023-12-31_at_13.01.34.png" width="300">
 
 ![Screenshot 2024-01-01 at 11.09.01.png](images/Screenshot_2024-01-01_at_11.09.01.png)
 
 Wombley Cubeの声で合言葉を言わないと開かないらしいです。
 
-![Screenshot 2024-01-01 at 11.02.04.png](images/Screenshot_2024-01-01_at_11.02.04.png)
+<img src="images/Screenshot_2024-01-01_at_11.02.04.png" width="500">
 
-Wombley Cubeのauditbookをダウンロードし、解凍すると「wombleycube_the_enchanted_voyage.mp3」というWombley Cubeの音声ファイルが手に入る。この音声をAIに学習させてActive Directoryで入手した「And he whispered, 'Now I shall be out of sight So through the valley and over the height.' And he'll silently take his way.」をWombley Cubeの声で再生するようにすればクリア!
+Wombley Cubeのauditbookをダウンロードし、解凍すると「wombleycube_the_enchanted_voyage.mp3」というWombley Cubeの音声ファイルが手に入ります。この音声をAIに学習させてActive Directoryで入手した「And he whispered, 'Now I shall be out of sight So through the valley and over the height.' And he'll silently take his way.」をWombley Cubeの声で再生するようにすればクリアです。
 
- https://play.ht/ を使って音声を作成した。それをドアの前で再生すればドアが開きます
+ https://play.ht/ を使って音声を作成しました。それをドアの前で再生すればドアが開きます
 
 ![Screenshot 2024-01-01 at 11.07.36.png](images/Screenshot_2024-01-01_at_11.07.36.png)
 
@@ -1878,9 +1880,9 @@ Wombley Cubeのauditbookをダウンロードし、解凍すると「wombleycube
 
 ![Screenshot 2024-01-01 at 11.08.19.png](images/Screenshot_2024-01-01_at_11.08.19.png)
 
-![Screenshot 2024-01-01 at 11.19.06.png](images/Screenshot_2024-01-01_at_11.19.06.png)
+<img src="images/Screenshot_2024-01-01_at_11.19.06.png" width="500">
 
-![Screenshot 2024-01-01 at 11.18.41.png](images/Screenshot_2024-01-01_at_11.18.41.png)
+<img src="images/Screenshot_2024-01-01_at_11.18.41.png" width="500">
 
 free sampleをクリックすると、clientプログラムがダウンロードできるのでそれを解析していきます。
 
@@ -1954,7 +1956,7 @@ Gain access to Jack's camera. What's the third item on Jack's TODO list?
 
 いよいよ最後です。
 
-![Screenshot 2024-01-01 at 21.44.55.png](images/Screenshot_2024-01-01_at_21.44.55.png)
+<img src="images/Screenshot_2024-01-01_at_21.44.55.png" width="500">
 
 ヒントにはadmin tools が openされていると書かれています。
 
@@ -1964,7 +1966,7 @@ Gain access to Jack's camera. What's the third item on Jack's TODO list?
 
 それと同時にmissile-targeting-system-2.1.0-SNAPSHOT.jarの中身を見ていきます。
 
-Javaのclassファイルをdecompileすると、mariadbの接続情報がハードコーディングされていることがわかります。しかもallowMultiQueries=trueとなっているので、複数SQLが許可されていることがわかります。
+Javaのclassファイルをdecompileすると、mariadbの接続情報がハードコーディングされていることがわかります。しかもallowMultiQueries=trueとなっているので、複数SQL実行が許可されていることがわかります。
 
 ```prolog
 Connection connection = DriverManager.getConnection("jdbc:mariadb:/localhost:3306/missile_targeting_system?allowMultiQueries=true", "targeter", "cu3xmzp9tzpi00bdqvxq");
@@ -2101,13 +2103,14 @@ public class SatelliteQueryFileFolderUtility implements Serializable {
 }
 ```
 
-となっていて、Updateが実行できそうということがわかるので、これを利用してPointの上書きを考えていきます。
+となっていて、Updateが実行できそうです。
+これを利用してPointの上書き方法を考えていきます。
 
 ```prolog
  object: ........sr..SatelliteQueryFileFolderUtility.......................Z..isQueryZ..isUpdateL..pathOrStatementt..Ljava/lang/String;xp..t.
 ```
 
-objectのデータが上記のようになっていて、プログラムの引数に渡されていることがわかります。このデータをシリアライズしてデータベースに書き込めばデータが書き換えられる可能性を試します。
+objectのデータが上記のようになっていて、プログラムの引数に渡されていることがわかります。このデータをシリアライズしてデータベースに書き込めばよさそうなので試してみます。
 
 ```prolog
 import java.io.ByteArrayOutputStream;
@@ -2172,7 +2175,8 @@ Submitしてみます。
 ---
 
 ## 釣りについて
-自動で釣りをしていきました。これはpythonで書いていたのですが、今考えるとJSの方がどう考えてもよかったですw
+自動で釣りをしていくのと、
+これはpythonで書いていたのですが、今考えるとJSの方がどう考えてもよかったですw
 なぜならclient.jsの206行目に下記コードを追加するだけでどんどん釣れていきます。
 
 ```prolog
@@ -2182,7 +2186,11 @@ sleep(2000)
 castReelBtn.click();
 ```
 
-どうしても残りの一匹が釣れなくて、https://2023.holidayhackchallenge.com/sea/fishdensityref.html というリンクがソースに書かれていたので（知ってはいたけどよく理解できていなかった）よくみると、明らかに「Piscis Cyberneticus Skodo」の画像だけ違いました。minimap.pngにこれをマッピングしてみると、一つの場所が浮き上がってきます。そこで釣り上げること20分ぐらい気付いたら釣れていましたw
+どうしても残りの一匹が釣れなくて、
+<!-- <a href='fishdensityref.html'>[DEV ONLY] Fish Density Reference</a> -->
+htmlのコメントアウトにあったファイルにアクセスします。https://2023.holidayhackchallenge.com/sea/fishdensityref.html
+ただ、よく理解できていなかったので最初は無視してたのですが、よくみると、明らかに「Piscis Cyberneticus Skodo」の画像だけ違っていて、minimap.pngにこれをマッピングしてみると、一つの場所が浮き上がってきます。そこで釣り上げること20分ぐらいで気付いたら釣れていましたw
+
 
 # Thanks
 
@@ -2190,6 +2198,6 @@ castReelBtn.click();
 生成AIを過信しすぎてはいけない。でも、うまく使えば問題を解決することができる
 というメッセージを受け取りました。
 
-今回は例年以上に悩まされましたが、なんとかレポート提出期限に間に合わせることができました。
+今回は問題数が多くて大変でしたが、なんとかレポート提出期限に間に合わせることができました。
 一方、問題を作成するのは大変だったと思います。
 毎年、私たちを楽しませてくれる運営のみなさまありがとうございました！
